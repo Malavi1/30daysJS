@@ -44,6 +44,7 @@ ul li {
     padding: 12px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
+    position: relative;
 }
 
 input {
@@ -65,16 +66,42 @@ button {
     font-size: 15px;
     font-weight: 900;
 
+
 }
 
-ul li ::before {
-    content: "";
-    width: 45px;
-    height: 45px;
+ul li::before {
+    content: '';
+    width: 30px;
+    height: 30px;
+    position: absolute;
     background-size: cover;
     background-position: center;
-    top: 12px;
-    left: 8pc;
-    background-image: url(C:\Users\uthan\Downloads\pro.photo.jpeg);
+    top: 6px;
+    left: 0px;
+    background-image: url("images/unchecked.png");
 
+}
+
+ul li.checked {
+    color: #555;
+    text-decoration: line-through;
+}
+
+ul li.checked::before {
+    background-image: url(images/checked.png);
+}
+
+ul li span {
+    right: 0;
+    top: 4px;
+    position: absolute;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    height: 30px;
+    border-radius: 50px;
+}
+
+ul li span:hover {
+    background-color: #555;
 }
