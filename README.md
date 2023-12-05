@@ -16,10 +16,22 @@ TO-DO App
 
 Drap & Drop
 
+![Screenshot 2023-12-05 172626](https://github.com/Malavi1/30daysJS/assets/112646623/be0a16a7-af34-4dec-a7e7-396f04362fbc)
+
+
 ### Day -4
 
 Dark Mode
 
+![Screenshot 2023-12-05 172918](https://github.com/Malavi1/30daysJS/assets/112646623/28c287b0-b827-47b8-a28d-6ccee186993e)
+
+
 ### Day -5
 
 Password Hide
+
+![Screenshot 2023-12-05 175147](https://github.com/Malavi1/30daysJS/assets/112646623/2fdf9baa-445d-446d-abe1-56b552d477d7)
+
+![Screenshot 2023-12-05 175202](https://github.com/Malavi1/30daysJS/assets/112646623/8c12e5f7-1ec5-4e63-afa8-a1d6768c592c)
+
+
