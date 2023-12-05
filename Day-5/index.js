@@ -7,6 +7,6 @@ eyeClose.onclick = () => {
     eyeClose.className = "fa-regular fa-3x fa-face-grin-stars";
   } else {
     passwordOpen.type = "password";
-    eyeClose.className = "fa-regular fa-3x fa-face-grin-tongue-squin";
+    eyeClose.className = "fa-regular fa-3x fa-face-grin-tongue-squint";
   }
 };
