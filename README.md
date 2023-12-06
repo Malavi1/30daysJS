@@ -25,4 +25,9 @@
 
 ![Screenshot 2023-12-05 175202](https://github.com/Malavi1/30daysJS/assets/112646623/8c12e5f7-1ec5-4e63-afa8-a1d6768c592c)
 
+### Day -6
+🔗[Quiz App ](https://simple-programming-quiz-app.netlify.app/)
+
+![Screenshot 2023-12-06 230254](https://github.com/Malavi1/30daysJS/assets/112646623/d4d7a66b-eccd-402f-a9d3-0fe573dafd90)
+
 
