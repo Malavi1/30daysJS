@@ -126,7 +126,7 @@ function handleNext() {
     resetOption();
     question.style.display = "none";
     scoreDiv.style.display = "flex";
-    scoreDiv.innerHTML += `${score}/${quizData.lenght}`;
+    scoreDiv.innerHTML += `${score}/${quizData.length}`;
   }
 }
 
