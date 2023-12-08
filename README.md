@@ -37,6 +37,7 @@
 
 ### Day -7
 
-🔗[Password Generator](https://simple-programming-quiz-app.netlify.app/)
+🔗[Password Generator](https://generator-of-password.netlify.app/)
 
-![Screenshot 2023-12-06 230254](https://github.com/Malavi1/30daysJS/assets/112646623/d4d7a66b-eccd-402f-a9d3-0fe573dafd90)
+![Screenshot 2023-12-07 162814](https://github.com/Malavi1/30daysJS/assets/112646623/da23ae42-7d1b-419f-896a-b91ca9e4060f)
+
