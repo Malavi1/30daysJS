@@ -44,6 +44,14 @@
 ### Day -8
 
 🔗[NotePad](https://notepad-easy-peasy.netlify.app/)
+
 ![Screenshot 2023-12-08 225715](https://github.com/Malavi1/30daysJS/assets/112646623/37e475bb-2855-414c-a815-9ce6b759d7e1)
+
+### Day -8
+
+🔗[NotePad](https://famous-yeot-0840aa.netlify.app/)
+
+![Screenshot 2023-12-09 142033](https://github.com/Malavi1/30daysJS/assets/112646623/7c4b1382-9255-46d1-8f58-40f0c10a930d)
+
 
 
