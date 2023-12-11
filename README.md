@@ -58,6 +58,12 @@
 🔗[QR-CODE](https://its-qr-code.netlify.app/)
 ![Screenshot 2023-12-11 072730](https://github.com/Malavi1/30daysJS/assets/112646623/0698780f-e5bf-447c-aa4d-bbcaaf1a1cbd)
 
+### Day -11
+
+🔗[Quote-Generator](https://its-a-quote-gen.netlify.app/)
+![Screenshot 2023-12-11 094934](https://github.com/Malavi1/30daysJS/assets/112646623/1ee1860f-6d6e-461c-9b46-df991f8368f3)
+
+
 
 
 
