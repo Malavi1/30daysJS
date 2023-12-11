@@ -18,7 +18,13 @@
     background-color: antiquewhite;
     position: absolute;
     padding: 40px;
-    margin: 200px 100px;
+    margin: 100px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+
 }
 
 #QR-btn {
@@ -27,11 +33,40 @@
     padding: 12px 24px;
     border: 2px solid black;
     border-radius: 10px;
+
 }
 
 #QR-input {
     width: 100%;
-    border: none;
-    margin: 20px 0;
+    border: 1px solid black;
+    border-radius: 10px;
     padding: 10px;
+    outline: none;
+}
+
+#QR-img.show-img {
+
+    border: 2px solid black;
+}
+
+.error {
+    animation: shake 0.1s linear 10;
+}
+
+@keyframes shake {
+    0% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-2px);
+    }
+
+    50% {
+        transform: translateX(2px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
 }
