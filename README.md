@@ -47,7 +47,7 @@
 
 ![Screenshot 2023-12-08 225715](https://github.com/Malavi1/30daysJS/assets/112646623/37e475bb-2855-414c-a815-9ce6b759d7e1)
 
-### Day -8
+### Day -9
 
 🔗[NotePad](https://famous-yeot-0840aa.netlify.app/)
 
