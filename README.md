@@ -49,9 +49,15 @@
 
 ### Day -9
 
-🔗[NotePad](https://famous-yeot-0840aa.netlify.app/)
+🔗[Age](https://famous-yeot-0840aa.netlify.app/)
 
 ![Screenshot 2023-12-09 142033](https://github.com/Malavi1/30daysJS/assets/112646623/7c4b1382-9255-46d1-8f58-40f0c10a930d)
+
+### Day -10
+
+🔗[QR-CODE](https://its-qr-code.netlify.app/)
+![Screenshot 2023-12-11 072730](https://github.com/Malavi1/30daysJS/assets/112646623/0698780f-e5bf-447c-aa4d-bbcaaf1a1cbd)
+
 
 
 
