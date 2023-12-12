@@ -63,7 +63,9 @@
 🔗[Quote-Generator](https://its-a-quote-gen.netlify.app/)
 ![Screenshot 2023-12-11 094934](https://github.com/Malavi1/30daysJS/assets/112646623/1ee1860f-6d6e-461c-9b46-df991f8368f3)
 
+### Day -12
 
-
+🔗[Quote-Generator](https://toast-not.netlify.app/)
+![Screenshot 2023-12-12 095021](https://github.com/Malavi1/30daysJS/assets/112646623/7edfd1e0-99da-49c8-ad19-dad5cd8d7ee7)
 
 
