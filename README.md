@@ -56,22 +56,27 @@
 ### Day -10
 
 🔗[QR-CODE](https://its-qr-code.netlify.app/)
+
 ![Screenshot 2023-12-11 072730](https://github.com/Malavi1/30daysJS/assets/112646623/0698780f-e5bf-447c-aa4d-bbcaaf1a1cbd)
 
 ### Day -11
 
 🔗[Quote-Generator](https://its-a-quote-gen.netlify.app/)
+
 ![Screenshot 2023-12-11 094934](https://github.com/Malavi1/30daysJS/assets/112646623/1ee1860f-6d6e-461c-9b46-df991f8368f3)
 
 ### Day -12
 
 🔗[Quote-Generator](https://toast-not.netlify.app/)
+
 ![Screenshot 2023-12-12 095021](https://github.com/Malavi1/30daysJS/assets/112646623/7edfd1e0-99da-49c8-ad19-dad5cd8d7ee7)
 
 ### Day -13
 
-🔗[Music-Player](https://single-song.netlify.app/)
-![Screenshot 2023-12-14 114021](https://github.com/Malavi1/30daysJS/assets/112646623/476bfe10-3012-4101-bf36-203ceec65abd)
+🔗[Music-Player](https://please-stop.netlify.app/)
+
+![Screenshot 2023-12-14 142617](https://github.com/Malavi1/30daysJS/assets/112646623/0dc04175-2d06-4d8d-8409-a29dc8685d7a)
+
 
 
 
