@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="sub-con">
+            <i class="fa-solid fa-4x fa-music" style="color: #000000;"></i>
+            <p>When You High On Emotion</p>
+        </div>
+        <div class="sub-con">
+            <input type="range" max="100" min="0" id="progress" value="0">
+            <div class="moves">
+                <i class="fa-solid fa-2x fa-backward-step" style="color: #000000;"></i>
+                <i class="fa-solid fa-3x fa-play" style="color: #000000;" onclick=Play()></i>
+                <i class="fa-solid fa-2x fa-forward-step" style="color: #000000;"></i>
+            </div>
+        </div>
+    </div>
+    <!-- <i class="fa-solid fa-pause" style="color: #000000;"></i> -->
+    <script src="index.js"></script>
+    <script src="https://kit.fontawesome.com/bbe6f2c2c3.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
