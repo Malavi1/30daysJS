@@ -73,9 +73,22 @@
 
 ### Day -13
 
-🔗[Music-Player](https://please-stop.netlify.app/)
+🔗[Stop Watch](https://please-stop.netlify.app/)
 
 ![Screenshot 2023-12-14 142617](https://github.com/Malavi1/30daysJS/assets/112646623/0dc04175-2d06-4d8d-8409-a29dc8685d7a)
+
+### Day -14
+
+🔗[Music Player](https://please-stop.netlify.app/)
+
+![Screenshot 2023-12-14 142617](https://github.com/Malavi1/30daysJS/assets/112646623/0dc04175-2d06-4d8d-8409-a29dc8685d7a)
+
+### Day -15
+
+🔗[Calculator](https://my-simple-cal.netlify.app/)
+
+![Screenshot 2023-12-15 085922](https://github.com/Malavi1/30daysJS/assets/112646623/555fe9b5-46a3-400e-81ad-e31c86ce6a8b)
+
 
 
 
