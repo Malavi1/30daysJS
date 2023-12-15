@@ -81,7 +81,8 @@
 
 🔗[Music Player](https://please-stop.netlify.app/)
 
-![Screenshot 2023-12-14 142617](https://github.com/Malavi1/30daysJS/assets/112646623/0dc04175-2d06-4d8d-8409-a29dc8685d7a)
+![Screenshot 2023-12-14 114021](https://github.com/Malavi1/30daysJS/assets/112646623/fa951d2c-ba75-415d-a261-c885d0ae8d35)
+
 
 ### Day -15
 
