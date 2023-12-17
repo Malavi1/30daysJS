@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop Up</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <button type="submit" class="btn" onclick="popupOpen()">Submit</button>
+        <div class="popup" id="popup">
+            <i class="fa-solid fa-4x fa-circle-check" style="color: #002aff;"></i>
+            <h2>Thank You!</h2>
+            <p>Successfully Submitted</p>
+            <button type="button" onclick='popupClose()'>OK</button>
+        </div>
+
+    </div>
+    <script src="https://kit.fontawesome.com/bbe6f2c2c3.js" crossorigin="anonymous"></script>
+    <script>
+        let popup = document.getElementById("popup")
+        function popupOpen() {
+            popup.classList.add('open-popup')
+
+        }
+        function popupClose() {
+            popup.classList.remove('open-popup')
+
+        }
+
+    </script>
+
+</body>
+
+</html>
