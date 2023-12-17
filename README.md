@@ -90,6 +90,18 @@
 
 ![Screenshot 2023-12-15 085922](https://github.com/Malavi1/30daysJS/assets/112646623/555fe9b5-46a3-400e-81ad-e31c86ce6a8b)
 
+### Day -16
+
+🔗[Pop up](https://dulcet-bublanina-45af71.netlify.app/)
+
+![Screenshot 2023-12-17 222805](https://github.com/Malavi1/30daysJS/assets/112646623/e7c1b6c9-7d8e-4b9f-b9ce-eb8a92943204)
+
+### Day -17
+
+🔗[Photo Gallery](https://grand-cendol-b1cb3e.netlify.app/)
+
+![Screenshot 2023-12-17 232941](https://github.com/Malavi1/30daysJS/assets/112646623/6f746725-1067-43f2-881c-06d8b76b8a4e)
+
 
 
 
