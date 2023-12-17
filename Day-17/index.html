@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="gallery-wrap">
+        <i class="fa-solid fa-10x fa-caret-left" style="color: white;" id="leftBtn"></i>
+        <div class="gallery">
+            <div>
+                <i class="fa-solid fa-10x fa-face-tired" style="color: white;"></i>
+                <i class="fa-solid fa-10x fa-face-smile" style="color: white;"></i>
+                <i class="fa-solid fa-10x fa-face-surprise" style="color: white;"></i>
+            </div>
+            <div>
+                <i class="fa-solid fa-10x fa-face-smile-wink" style="color: white;"></i>
+                <i class="fa-solid fa-10x fa-face-laugh-squint" style="color: white;"></i>
+                <i class="fa-solid fa-10x fa-face-grin-tears" style="color: white;"></i>
+            </div>
+        </div>
+        <i class="fa-solid fa-10x fa-caret-right" style="color: white;" id="rightBtn"></i>
+    </div>
+
+    <script src="https://kit.fontawesome.com/bbe6f2c2c3.js" crossorigin="anonymous"></script>
+    <script>
+        let scrollContainer = document.querySelector(".gallery")
+        let leftbtn = document.getElementById("leftBtn")
+        let rightbtn = document.getElementById("rightBtn")
+        scrollContainer.addEventListener("wheel", (evn) => {
+            scrollContainer.scrollLeft += evn.deltaY
+        })
+        leftbtn.addEventListener("click", () => {
+            scrollContainer.scrollLeft += 900
+
+        })
+        rightbtn.addEventListener("click", () => {
+            scrollContainer.scrollLeft -= 900
+
+        })
+    </script>
+</body>
+
+</html>
