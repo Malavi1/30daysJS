@@ -9,7 +9,29 @@
 </head>
 
 <body>
+    <div class="container">
+        <form>
+            <div class="input-group">
+                <label>Full Name</label>
+                <input type="text" placeholder="Full name" id="contact-name" onkeyup="validateName()">
+                <span id="name-error"></span>
+            </div>
+            <div class="input-group">
+                <label>Phone No.</label>
+                <input type="tel" placeholder="123 4567 789">
+                <span id="phone-error"></span>
+            </div>
+            <div class="input-group">
+                <label>Email ID</label>
+                <input type="email" placeholder="Enter Email">
+                <span id="email-error"></span>
+            </div>
+            <button>Submit</button>
+            <span id="submit-error"></span>
+        </form>
+    </div>
 
+    <script src="index.js"></script>
 </body>
 
 </html>
